@@ -19,7 +19,8 @@ int main() {
     printf("Enter the value of b : ");
     scanf("%d",&b);
 
-    // Function call
+    // Function call   
+    //we here dont even need to make these varibales or simple write sum (2,3) it will still give us as the ans 5
     sum(a,b);
  return 0;
 }
